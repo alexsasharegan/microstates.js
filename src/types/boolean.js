@@ -1,6 +1,6 @@
-import Primtive from './primitive';
+import Primitive from "./primitive";
 
-export default class BooleanType extends Primtive {
+export default class BooleanType extends Primitive {
   static name = "Boolean";
 
   initialize(value) {
